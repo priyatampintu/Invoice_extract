@@ -39,7 +39,7 @@ Install ananconda environment
 ```
 ## STEP 1. Data Collection
 
-Download images from cdn link and only images in JPG file format are allowed.
+Collect images from google and only images in JPG file format are allowed.
 
 Images and lablel's name should be same with jpg and txt format.
 
