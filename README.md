@@ -1,7 +1,7 @@
 
 # Invoice Extraction(Documentation)
 
-This is the object detection model for Invoice extraction where will detect multiple invoice and at the end will deploy project on server using Docker and streamlit.
+This is the object detection model for Invoice extraction where will detect multiple invoice and export pdf file of each invoice in imaege and  at the end will deploy project on server using Docker and streamlit.
 
 ![Logo](https://raw.githubusercontent.com/priyatampintu/Invoice_extract/main/example/train_batch0.jpg) 
 ## Try it Demo
