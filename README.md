@@ -66,6 +66,7 @@ Enter the label and number.
   item {
   id: 0
   name: 'Invoice'
+  }
 ```
 
 ## STEP 5. Training YOLO V8 model
