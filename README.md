@@ -32,7 +32,7 @@ git clone https://github.com/priyatampintu/Invoice_extract
 
 Install ananconda environment
 ```bash
-  cd Invoice_ectract
+  cd Invoice_extract
   conda create -n obj_detect python=3.9
   conda activate obj_detect
   pip install -r requirements.txt
