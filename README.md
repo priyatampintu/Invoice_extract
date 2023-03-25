@@ -1,9 +1,9 @@
 
-# Cattle-pose-detection(Documentation)
+# Invoice Extraction(Documentation)
 
 This is the object detection model for ANIMALL where will detect multiple pose of cattle like Side, Back, Face-Side, Front, Not clear and Milk can and at the end will deploy project on server using Docker and streamlit.
 
-![Logo](https://raw.githubusercontent.com/priyatampintu/image-clssification-shirtsandtshrts/master/examples/val_batch1_pred.jpg) 
+![Logo](https://raw.githubusercontent.com/priyatampintu/Invoice_extract/main/example/train_batch0.jpg) 
 ## Try it Demo
 
 http://216.48.191.9:8501/
