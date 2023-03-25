@@ -112,7 +112,7 @@ There are two major parameters to measure object detection model's perforamnce:
     
     # accepts all formats - image/dir/Path/URL/video/PIL/ndarray. 0 for webcam
     # from PIL
-    im1 = Image.open("test.jpg")
+    im1 = Image.open("test.jpeg")
 
     results = model.predict(source=im1, save=True, save_txt=True)  # save predictions as labels
 
