@@ -6,7 +6,7 @@ This is the object detection model for Invoice extraction where will detect mult
 ![Logo](https://raw.githubusercontent.com/priyatampintu/Invoice_extract/main/example/train_batch0.jpg) 
 ## Try it Demo
 
-http://216.48.191.9:8501/
+http://216.48.191.9:8503/
 
 
 ## Tutorial
