@@ -28,7 +28,7 @@ torch>=1.7
 cuda 11.0
 ```
 ## Setup Environment 
-git clone https://github.com/priyatampintu/Cattle-pose-detetcion.git
+git clone https://github.com/priyatampintu/Invoice_extract
 
 Install ananconda environment
 ```bash
