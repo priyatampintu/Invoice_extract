@@ -132,7 +132,7 @@ def main():
             obj_detection(my_img)
 
     elif choice == "See an illustration":
-        my_img = Image.open("cropped.jpeg")
+        my_img = Image.open("test.jpeg")
         obj_detection(my_img)
 
 if __name__ == '__main__':
