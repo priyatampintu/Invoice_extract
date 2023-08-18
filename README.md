@@ -11,7 +11,7 @@ This is the object detection model for Invoice extraction where will detect mult
 
 ## Try it Demo
 
-http://216.48.191.9:8503/
+http://216.48.191.9:8502/
 
 
 ## Tutorial
